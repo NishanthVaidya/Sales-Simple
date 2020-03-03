@@ -54,6 +54,7 @@ body{
       width: 50%;
       background-color: white;
       border-width: thin;
+      box-shadow: 1px 1px #12b7c9;
       }
 
 .grid-container {
